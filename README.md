@@ -1,2 +1,3 @@
 # StartAllBack-Patcher
-Patching the StartAllBack application for free of user
+
+Run the SABPatcher.exe and it will patch the SAB with simple restart for trial.
